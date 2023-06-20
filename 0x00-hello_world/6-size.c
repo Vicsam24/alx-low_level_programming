@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Return : 0(Success)
+ * Return: 0(Success)
  */
 int main(void)
 {
@@ -10,7 +10,7 @@ int main(void)
 	long int c;
 	long long int d;
 	float f;
-	
+
 	printf("Size of a char: %1u byte(s)\n", sizeof(a));
 	printf("Size of an int: %1u byte(s)\n", sizeof(b));
 	printf("Size of a long int: %1u byte(s)\n", sizeof(c));
